@@ -1,0 +1,6 @@
+C:\Users\yar\source\repos\RunningString\RunningString\bin\Release\RunningString.exe.config
+C:\Users\yar\source\repos\RunningString\RunningString\bin\Release\RunningString.exe
+C:\Users\yar\source\repos\RunningString\RunningString\bin\Release\RunningString.pdb
+C:\Users\yar\source\repos\RunningString\RunningString\obj\Release\RunningString.csprojAssemblyReference.cache
+C:\Users\yar\source\repos\RunningString\RunningString\obj\Release\RunningString.exe
+C:\Users\yar\source\repos\RunningString\RunningString\obj\Release\RunningString.pdb
